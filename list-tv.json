@@ -1,0 +1,21 @@
+{
+	channelsLst : [
+		{
+			"title" : "watania 1",
+			"logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Télévision_tunisienne_1%2C_2017.svg/1200px-Logo_Télévision_tunisienne_1%2C_2017.svg.png",
+			"url" : "https://www.youtube.com/embed/gbp4lTEvbdA"
+		},
+
+		{
+			"title" : "watania 2",
+			"logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Logo_Télévision_tunisienne_2%2C_2017.svg/1200px-Logo_Télévision_tunisienne_2%2C_2017.svg.png",
+			"url" : "https://www.youtube.com/embed/ex7Egl9JNts"
+		},
+
+		{
+			"title" : "France 24 Arabe",
+			"logo" : "https://upload.wikimedia.org/wikipedia/fr/thumb/2/24/Logos_FRANCE24_RVB_2013.svg/1200px-Logos_FRANCE24_RVB_2013.svg.png",
+			"url" : "https://www.youtube.com/embed/O80fS7gjevA"
+		},
+	]
+}
